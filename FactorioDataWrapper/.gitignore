@@ -1,3 +1,7 @@
 /bin/
 /target/
 /config.json
+*.iml
+/.idea
+*.class
+output.json
